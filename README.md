@@ -8,7 +8,6 @@ We can use this approach to train models for the identification of different ite
 
 **Methodology:**
 
-**Dataset Annotation Conversion** - 
 
 1) The dataset which was given had coco annotations. Such annotations cannot be used as an input to Yolov4 or Yolov5. They both had different input dataset formats. The conversion.py file in GitHub shows how annotations were converted.
 
